@@ -1,0 +1,4 @@
+Document Analyzer built on the Azure cloud: https://youtu.be/UFRXTJb9Y10
+                                            https://youtu.be/UFRXTJb9Y10
+
+github repo: https://github.com/Daniel-Krzyczkowski/MicrosoftAzureAI/tree/master/src/document-analyzer

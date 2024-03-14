@@ -1,0 +1,14 @@
+Azure Virtual Machine Scale Set (VMSS):
+    Is a azure service that allows to deploy compute capacity with dynamic scalabity and high availability.
+
+    VMSS provides a scalable way to run applications on a set of VMs. When deployed, the VMs in the scale set can all have the same configuration and run the same applications or have different configuration and run different applications.
+        - As demand grows, the number of VMs running in the sacle set increases.
+        - As demand goes down, the number of VMs running in the scale set decreases.
+
+    VMSS are ideal for scenarios that include compute work-load, big-data workloads, and container workloads.
+    VMSS are intelligent enough to automatically scale up and down the number of VM instances.
+    A scale set uses a load balancer to distribute requests across the VM instances. It uses a health probe or the Application Health Extension to determine the availablity of each instance.
+        - If the instance respond, the scale set knows the instance is still available.
+        - If the instance fails to respond, the scale set knows the instance is unavailable and doesn't send requests to it.
+    
+    Virtual Machine Scale Sets support both Linux and Windows VMs in Azure. If you deal with large workloads with varying and unpredictable demands, scale sets are a great solution because they automatically provide a highly available and scalable environment.

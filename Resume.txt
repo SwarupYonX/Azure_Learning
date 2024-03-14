@@ -1,0 +1,26 @@
+Configuring the services, Deploying the resources using IaC and validating the resource configuration through automation script.
+
+1. Reducing annual cloud cost by 20% while making it cloud-agnostic to improve flexibility and scalability
+    This migration wasn't just about transferring data and applications; it was a strategic initiative aimed at optimizing costs and enhancing flexibility and scalability.
+
+    Firstly, by migrating from AWS to Azure, we were able to leverage the unique offerings and pricing structures of Azure, resulting in a substantial reduction of 20% in annual cloud costs. This reduction was achieved through meticulous planning and execution, including resource optimization, workload reconfiguration, and leveraging Azure's cost-effective services.
+    Moreover, the migration wasn't just about changing cloud providers. We also ensured that the architecture and infrastructure were designed to be cloud-agnostic. This approach allowed Zee5 OTT to avoid vendor lock-in and seamlessly transition between different cloud platforms in the future, based on evolving business needs and market dynamics.
+
+Migrating from AWS to Azure presents an opportunity to optimize cloud costs through several key factors:
+    Cost Analysis and Benchmarking: Conducting through analysis of AWS usage and expenditure, identifying areas of potential optimization.
+    Strategic Collaboration: Collaboration with key stakeholders, including Microsoft and Zee Enterprise, to develop a comprehensive migration strategy.
+    Resource Optimization: Right-sizing resources and workloads on Azure, ensuring that we only provisioned what is necessary to meet our performance requirements. By optimizing VM sizes, service tiers, and storage configurations, we were able to eliminate unnecessary spending and achieve significant cost reductions.
+    Utilization of Cost Management Tools: Utilizeing Azure Cost Management tools to monitor, vm insights. This included implementing policies to enforce cost-saving measures, analyzing cost trends, and leveraging recommendations for optimization provided by the platform.
+    Long-Term Cost Reduction Strategies: Implementing long-term cost reduction strategies, such as utilizing Azure Reserved Instances. Additionally, we prioritized the adoption of cost-effective Azure services and features, such as Azure Functions and Azure Blob Storage, to further optimize spending.
+
+Overall, our approach to cost optimization during the migration from AWS to Azure was rooted in meticulous analysis, strategic collaboration, and a commitment to long-term efficiency. By effectively implementing these strategies, I was able to deliver significant cost savings while ensuring that the organization remained agile, scalable, and competitive in the cloud.
+
+2. Automated infrastructure deployment validation with Pester, a PowerShell Module. This automation streamlined our process, reducing manual effort by 90% and ensuring 100% acuracy.
+    Focused on automating infrastructure deployment validation using Pester, a powerful PowerShell module.
+    Aimed at enhancing efficiency, accuracy, and reliability within our infrastructure deployment processes.
+
+    Introduction to the Initiative: We faced challenges in ensuring the accuracy of our infrastructure deployments and the need for automation to streamline the validation process.
+    Implementation of Pester Automation: The versatility and effectiveness of Pester in writing and executing infrastructure validation tests, ensuring that our deployments met predefined criteria and standards.
+    Benefits Achieved: 90% reduction in manual effort, indicating the significant time and resource savings achieved through automation. The automation process ensured 100% accuracy in infrastructure validation, eliminating the risk of human error and enhancing the reliability of our deployments.
+    Streamlining Processes: Streamlined our deployment processes, allowing us to deploy infrastructure more rapidly and consistently. The automation enabled us to detect and address issues early in the deployment lifecycle, minimizing downtime and ensuring a smoother deployment experience.
+
